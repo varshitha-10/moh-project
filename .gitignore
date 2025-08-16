@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+.venv
+venv/
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Node
+node_modules/
+*.log
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test/coverage
+.coverage
+htmlcov/
+pytest_cache/
+
+# Docker
+*.pid
+docker-data/
+
+# Misc
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+
+# Frontend build
+frontend/.next/
+frontend/out/
+frontend/.cache/
+
+# Backend
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.env
+backend/.venv
+
+# Reports
+*.html
+*.xml
+*.csv
+*.pdf
+
+# Secrets (never commit real secrets)
+secrets.env

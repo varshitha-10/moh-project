@@ -1,0 +1,16 @@
+strawberry-graphql[fastapi]
+spacy
+fastapi
+uvicorn[standard]
+asyncpg
+aiomysql
+aiosqlite
+motor
+pymongo
+sqlalchemy
+python-dotenv
+redis
+langchain
+openai
+python-jose[cryptography]
+passlib[bcrypt]
